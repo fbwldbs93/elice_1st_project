@@ -4,7 +4,7 @@
 
 ## 사이트 링크
 http://kdt-ai5-team01.elicecoding.com:3000/
-
+- 앨리스 트랙 기간에만 열람 가능
 
 ## API 문서
 
