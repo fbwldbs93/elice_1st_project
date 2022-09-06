@@ -23,7 +23,7 @@ http://kdt-ai5-team01.elicecoding.com:3000/
 - 2022/08/22 ~ 2022/09/02
 
 ## 협업 툴
-<img src="https://img.shields.io/badge/Jira-blue?style=flat-square&logo=Jira&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Jira-blue?style=flat-square&logo=Zira&logoColor=blue"/>
 <img src="https://img.shields.io/badge/Postman-orange?style=flat-square&logo=Postman&logoColor=black"/>
 
 ## 사용 언어
